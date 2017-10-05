@@ -2,7 +2,6 @@
  * Emmet Stanevich
  * Problem 0
  * 10/03/17
- * This is the test branch
  */
 public class Problem0 {
 

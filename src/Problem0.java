@@ -1,7 +1,7 @@
 /*
  * Emmet Stanevich
  * Problem 0
- * 10/3/17
+ * 10/03/17
  */
 public class Problem0 {
 
